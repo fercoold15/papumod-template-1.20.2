@@ -21,7 +21,7 @@ public class ModBlocks {
 //            new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).sounds(BlockSoundGroup.AMETHYST_BLOCK)));
 
     public static final Block PAPU_ORE = registerBlock("papu_ore",
-            new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(2f), UniformIntProvider.create(2, 5)));
+            new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(0.2f), UniformIntProvider.create(2, 5)));
 //    public static final Block DEEPSLATE_PAPU_ORE = registerBlock("deepslate_papu_ore",
 //            new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.DEEPSLATE).strength(4f), UniformIntProvider.create(2, 5)));
 //    public static final Block NETHER_PAPU_ORE = registerBlock("nether_papu_ore",
