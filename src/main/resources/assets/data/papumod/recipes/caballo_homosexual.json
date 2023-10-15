@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:black_wool"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "P": {
+      "item": "papumod:papu"
+    }
+  },
+  "pattern": [
+    "AIA",
+    "IPI",
+    "AIA"
+  ],
+  "result": {
+    "item": "papumod:caballo_homosexual"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "papumod:papu"
+    }
+  },
+  "result": {
+    "item": "papumod:papu_block"
+  }
+}
